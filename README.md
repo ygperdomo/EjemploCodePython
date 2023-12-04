@@ -25,9 +25,9 @@ Aprender los fundamentos del lenguaje de programación Python!
 * Cadenas de Texto
 * Indices y Slicing
 * Propiedades y Metodos de Cadenas
+* Formato de Impresion en Cadenas de Texto
 ```
 Próximos pasos
-* Formato de Impresion en Cadenas de Texto
 * Listas
 * Diccionarios
 * Sets
