@@ -67,3 +67,26 @@ print(mi_diccionario)
 print(mi_diccionario['manzanas'])
 print(mi_diccionario['kekes'])
 print(mi_diccionario['kekes'][1].upper())
+
+mi_diccionario['gaseosa'] = 300
+print(mi_diccionario)
+print(mi_diccionario.keys())
+print(mi_diccionario.values())
+print(mi_diccionario.items())
+
+# tuplas
+t = (1, 2, 3)
+lista = [1, 2, 3]
+
+print(type(t))
+print(t[0])
+
+t = ('a', 'b', 'a')
+print(t.count('a'))
+
+t = ('c', 'b', 'a')
+print(t.index('a'))
+
+lista[0] = 'nuevo'
+print(lista)
+

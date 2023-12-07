@@ -28,9 +28,9 @@ Aprender los fundamentos del lenguaje de programación Python!
 * Formato de Impresion en Cadenas de Texto
 * Listas
 * Diccionarios
+* Sets
 ```
 Próximos pasos
-* Sets
 * Booleanos
 * Comparadores
 * Encadena Comparadores
