@@ -26,10 +26,10 @@ Aprender los fundamentos del lenguaje de programación Python!
 * Indices y Slicing
 * Propiedades y Metodos de Cadenas
 * Formato de Impresion en Cadenas de Texto
-```
-Próximos pasos
 * Listas
 * Diccionarios
+```
+Próximos pasos
 * Sets
 * Booleanos
 * Comparadores
