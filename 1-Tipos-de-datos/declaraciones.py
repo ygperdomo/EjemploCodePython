@@ -1,3 +1,5 @@
+# import
+
 # condicionales
 if True:
     print(True)
@@ -7,7 +9,7 @@ sed = True
 
 if hambre and not sed:
     print('Tenemos hambre')
-elif hambre == True and sed == True:
+elif hambre is True and sed is True:
     print('Tenemos hambre y sed')
 else:
     print('Estamops llenos')
@@ -51,3 +53,52 @@ d = {'y1': 1, 'y2': 2, 'y3': 3}
 for llave, valor in d.items():
     print(llave)
 
+x = 0
+while x < 5:
+    print(f'El valor actual de x es {x}')
+    x += 1
+else:
+    print('x no es mayor que 5')
+
+# Palabras Claves Utiles
+# breack
+# continue
+# pass
+
+x = 'Erick'
+
+for letter in x:
+    if letter == 'i':
+        break
+        # continue
+    print(letter)
+
+milista = [1, 2, 3]
+for num in range(0, 10, 2):
+    print(num)
+
+print(list(range(0, 11, 2)))
+
+palabra = 'hola'
+for index, letter in enumerate(palabra):
+    print(index)
+    print(letter)
+    print('\n')
+
+milista1 = [1, 2, 3, 4, 5]
+milista2 = ['a', 'b', 'c']
+milista3 = [100, 200, 300]
+
+for item in zip(milista1, milista2, milista3):
+    print(item)
+
+print(list(zip(milista1, milista2, milista3)))
+
+if 'a' in milista2:
+    print('verdadero')
+
+d = {'k1': 1}
+if 'k1' in d:
+    print('verdadero')
+
+print(min(milista1))
