@@ -32,16 +32,14 @@ Aprender los fundamentos del lenguaje de programación Python!
 * Booleanos
 * Comparadores
 * Encadena Comparadores
+### Declaraciones
+* IF y ELIF
+* Ciclos FOR
+* Ciclos WHILE
+* Operadores Utiles
+* Listas de Comprension
 ```
 Próximos pasos
-==== Declaraciones ====
-
-01:43:16 IF y ELIF
-01:49:52 Ciclos FOR
-02:02:27 Ciclos WHILE
-02:09:05 Operadores Utiles
-02:21:23 Listas de Comprension
-
 ==== Metodos y Funciones ====
 
 02:25:41 Metodos y Documentacion
